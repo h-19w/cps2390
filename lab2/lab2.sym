@@ -1,0 +1,23 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	BIN_OUT                 3034
+//	CHAR_ONE                304C
+//	CHAR_ZERO               304B
+//	DONE_EXP                3012
+//	DONE_PRINT              3044
+//	FIND_EXP                300E
+//	FRACTION_MASK           3048
+//	MASK_63                 3047
+//	NEG_ONE                 304A
+//	NEXT_BIT                3041
+//	NUM_LOC                 3045
+//	OUTPUT_MSG              304D
+//	POP_REGISTERS           302B
+//	POSITIVE                3005
+//	PRINT_BITS              3036
+//	PRINT_ONE               303F
+//	PRINT_ZERO              303C
+//	PUSH_REGISTERS          3022
+//	RESULT_LOC              3046
+//	SKIP_SIGN               3008
+//	ZERO                    3049
