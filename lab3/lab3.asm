@@ -1,5 +1,4 @@
-; Name: Wong Kei Wai Hadassah
-; Student id: 1308584
+
 ; Description: encrypting and decrypting an input, storing the various data in the required locations. 
 
 	.ORIG x3000
