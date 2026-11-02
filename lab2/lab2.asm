@@ -1,5 +1,4 @@
-; Name: Wong Kei Wai Hadassah
-; Student id: 1308584
+
 ; Description: Convert a 2's complement integer from memory location x3200 to a 16-bit floating-
 ; point representation and store the result in x3201. Output the floating-point number in binary 
 ; format.
